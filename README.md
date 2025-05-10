@@ -32,7 +32,7 @@ Social media is filled with emotional expressions — through words, emojis, sla
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Ranjith-Kumar-CSE/Sentiment-Analysis.git
+  https://github.com/Somasundaram-D/Sentiment-Analysis.git
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -119,4 +119,4 @@ This project is for academic and research purposes under fair use. Contact autho
 
 ## Repository
 
-GitHub:(https://github.com/Purusothaman-C/Sentiment-Analysis.git)
+GitHub:(https://github.com/Somasundaram-D/Sentiment-Analysis.git)
